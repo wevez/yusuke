@@ -1,0 +1,7 @@
+net/minecraft/client/Minecraft
+net/minecraft/client/entity/EntityPlayerSP
+net/minecraft/network/NetworkManager
+net/minecraft/entity/EntityLivingBase
+net/minecraft/entity/Entity
+net/minecraft/client/gui/GuiIngame
+net/minecraft/entity/player/EntityPlayer
